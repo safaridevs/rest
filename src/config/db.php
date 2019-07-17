@@ -3,9 +3,9 @@ class db
 {
     //properties
     private $dbhost ='localhost';
-    private $dbuser = 'root';
+    private $dbuser = '***';
     private $dbpass ='';
-    private $dbname ='slimapp';
+    private $dbname ='*****';
 
     //connect
     public function connect(){
